@@ -3,8 +3,8 @@
 <package format="3">
   <name>intro_rover_description</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="felipelazcanocansino@gmail.com">felipe</maintainer>
+  <description>Incomplete Software Intro Task Package to be fixed by a new member</description>
+  <maintainer email="felipe.lazcano@spaceconcordia.ca">felipe</maintainer>
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
