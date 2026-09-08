@@ -3,8 +3,8 @@ Intro task repository to be forked by new potential software members who are int
 The instructions of the software introduction task can be found in this README.md below.
 This repository contains a ROS2 workspace where packages can be added inside of the /src folder.
 
-- **Creating a local repository**
-  - Make sure that your GitHub account is connected to your computer.
+# 1. Creating a local repository
+  ## 1.1. Make sure that your GitHub account is connected to your computer.
   - Fork this repository. This is where you are going to write your implementation of the intro task.
 
 # Fix the intro_rover_description Ros package
