@@ -4,16 +4,24 @@ The instructions of the software introduction task can be found in this README.m
 This repository contains a ROS2 workspace where packages can be added inside of the /src folder.
 
 # 1. Creating a local repository
-  ## 1.1. Make sure that your GitHub account is connected to your computer.
-  - Fork this repository. This is where you are going to write your implementation of the intro task.
+  ## 1.1. 
+  Make sure that your GitHub account is connected to your computer.
+  ## 1.2. 
+  Fork this repository. This is where you are going to write your implementation of the intro task.
 
-# Fix the intro_rover_description Ros package
+# 2. Fix the intro_rover_description ROS2 package
+  ## 2.1.
+  There are changes to the be done in some of the files of the package in order to get it to work properly.
 
-# Visualize the robot in RViz
+# 3. Visualise the robot in RViz
+  ## 3.1.
+  Create a launch file to visualise the rover which in the RViz software.
 
-# Create a Ros2 workspace to control this robot
-## Manual control 
-## Preprogrammed control
+# 4. Create a Ros2 infrastructure to control the rover in RViz
+  ## 4.1.
+  Create a node to manually control each joint of the rover.
+  ## 4.2.
+  Create a node to make the rover dance. This should be a reprogrammed sequence of joint states 
 
 # Simulate the robot in Gazebo Harmonic
 
