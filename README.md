@@ -20,6 +20,8 @@ Keep in mind that the URDF is very detailed and might need to be modified in ord
 
 # 5. Simulate the robot in Gazebo Harmonic
 5.1. Create a launch file that spawns the rover in a Gazebo world. Please make sure to use Gazebo Harmonic as this version of Gazebo works better with ROS2 Jazzy.
-5.2. Control the rover with the control infrastructure built in part 4. and 
+5.2. Control the rover with the control infrastructure built in part 4. and see it move in the Gazebo world.
 
-# Be ready to present your solution
+# 6. Be ready to present your solution
+6.1. Create a README.md file in your forked workspace presenting your solutions.
+6.2. Run and present your workspace to the Software Manager.
