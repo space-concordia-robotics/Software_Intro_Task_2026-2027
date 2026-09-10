@@ -3,27 +3,27 @@ This is the intro task repository to be forked by new potential software members
 The instructions of the software introduction task can be found in this README.md below.\
 This repository contains a ROS2 workspace where packages can be added inside of the /src folder.\
 Keep in mind that the URDF is very detailed and might need to be modified in order to reduce detail.\
-Remember to go over documentation.\
+Remember to go over documentation.
 
 ## 1. Creating a local repository
 1.1. Make sure that your GitHub account is connected to your computer.\
 1.2. Fork this repository into your GitHub account.\
-1.3. Clone your fork of this repository onto your personal machine.\
+1.3. Clone your fork of this repository onto your personal machine.
 
 ## 2. Fix the intro_rover_description ROS2 package
 2.1. Apply the changes necessary to the files of the package in order to get it to work properly within ROS2.\
 
 ## 3. Visualize the robot in RViz
-3.1. Create a launch file to visualize the rover in the RViz software.\
+3.1. Create a launch file to visualize the rover in the RViz software.
 
 ## 4. Create a Ros2 infrastructure to control the rover in RViz
 4.1. Create a node to manually control each joint of the rover.\
-4.2. Create a node to make the rover dance. This should be a reprogrammed sequence or a function of the joint states over time.\
+4.2. Create a node to make the rover dance. This should be a reprogrammed sequence or a function of the joint states over time.
 
 ## 5. Simulate the robot in Gazebo Harmonic
 5.1. Create a launch file that spawns the rover in a Gazebo world. Please make sure to use Gazebo Harmonic as this version of Gazebo works better with ROS2 Jazzy.\
-5.2. Control the rover with the control infrastructure built in part 4. and see it move in the Gazebo world.\
+5.2. Control the rover with the control infrastructure built in part 4. and see it move in the Gazebo world.
 
 ## 6. Be ready to present your solution
 6.1. Modify this README.md file in your forked workspace presenting your solutions.\
-6.2. Run and present your workspace to the Software Manager.\
+6.2. Run and present your workspace to the Software Manager.
